@@ -1,7 +1,9 @@
 
 # 🔥 BountyForge
 
-![CLI](images/logof.png)
+<div align="center">
+  <img src="images/logof.png" alt="CLI" width="200"/>
+</div>
 
 **A lightweight offensive security recon framework
 for modern bug bounty workflows.**
